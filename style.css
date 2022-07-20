@@ -13,6 +13,7 @@ body{
 ::-webkit-scrollbar{
     display: none;
 }
+/* header section style */
 .header-container{
     width: 80%;
     height: 600px;
@@ -23,8 +24,8 @@ body{
     margin-bottom: 50px;
     border-radius: 20px;
     background-color: black;
-}
-/* header-left-section style */
+} 
+/* header section left style */
 .header-left-section{
     width: 50%;
     color: white;
@@ -76,6 +77,7 @@ body{
     margin-bottom: 100px;
 }
 /* main section style */
+/* main container style */
 .main-container{
     width: 80%;
     display: flex;
@@ -85,6 +87,7 @@ body{
     margin-bottom: 150px;
     background-color: white;
 }
+/* main container left buttons style */
 .main-container-btn{
     width: 20%;
     height: 250px;
@@ -125,6 +128,7 @@ body{
     font-family: 'Poppins', sans-serif;
     font-size: 20px;
 }
+/* main container blogs style */
 .main-container-blog{
     display: grid;
     grid-template-columns: repeat(3,1fr);
@@ -165,6 +169,7 @@ body{
 .icon2{
     margin-right: 150px;
 }
+/* linked page style */
 /* upcoming match page cards style */
 .event-section{
     display: grid;
@@ -231,6 +236,7 @@ body{
     padding-left: 20px;
     padding-right: 20px;
 }
+/* Ends */
 
 
 
