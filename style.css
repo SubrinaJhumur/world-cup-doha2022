@@ -153,7 +153,7 @@ body{
 }
 /* main container blogs style */
 .main-container-blog{
-    width: 1000px;
+    width: 80%;
     margin-right: 50px;
     display: grid;
     grid-template-columns: repeat(3,1fr);
@@ -163,7 +163,7 @@ body{
 
 .blog-1{
     border: 1px solid white;
-    width: 300px;
+    width: 311px;
     height: 350px;
     padding-bottom: 20px;
     border-radius: 10px;
@@ -201,7 +201,7 @@ body{
     display: grid;
     grid-template-columns: repeat(3,1fr);
     grid-row-gap: 30px;
-    grid-column-gap: 40px;
+    grid-column-gap: 30px;
 }
 .upcoming-event{
     border: 1px solid white;
