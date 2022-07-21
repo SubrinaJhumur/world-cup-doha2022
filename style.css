@@ -153,16 +153,16 @@ body{
 }
 /* main container blogs style */
 .main-container-blog{
-    width: 80%;
+    width: 1000px;
     display: grid;
     grid-template-columns: repeat(3,1fr);
-    grid-row-gap: 20px;
-    grid-column-gap: 20px;
+    grid-row-gap: 15px;
+    grid-column-gap: 15px;
 }
 
 .blog-1{
     border: 1px solid white;
-    width: 311px;
+    width: 250px;
     height: 350px;
     border-radius: 10px;
 }
