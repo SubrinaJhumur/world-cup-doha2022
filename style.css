@@ -153,6 +153,7 @@ body{
 }
 /* main container blogs style */
 .main-container-blog{
+    width: 80%;
     display: grid;
     grid-template-columns: repeat(3,1fr);
     grid-row-gap: 20px;
